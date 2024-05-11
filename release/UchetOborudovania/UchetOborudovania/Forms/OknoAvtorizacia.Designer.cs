@@ -116,7 +116,6 @@
             this.button2.TabIndex = 8;
             this.button2.Text = "Окно. Сотрудник";
             this.button2.UseVisualStyleBackColor = true;
-            this.button2.Visible = false;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // button3
@@ -127,7 +126,6 @@
             this.button3.TabIndex = 9;
             this.button3.Text = "Окно. Руководитель";
             this.button3.UseVisualStyleBackColor = true;
-            this.button3.Visible = false;
             this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // button4
@@ -138,7 +136,6 @@
             this.button4.TabIndex = 10;
             this.button4.Text = "Окно. Администратор";
             this.button4.UseVisualStyleBackColor = true;
-            this.button4.Visible = false;
             this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
             // checkBoxMaska
